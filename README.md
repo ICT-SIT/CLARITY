@@ -4,7 +4,7 @@
 
 This is an implementation of the paper: 
 
-CLARITY: CONTEXTUAL LINGUISTIC ADAPTATION AND ACCENT RETRIEVAL FOR DUAL-BIAS MITIGATION IN TEXT-TO-SPEECH GENERATION
+[CLARITY: CONTEXTUAL LINGUISTIC ADAPTATION AND ACCENT RETRIEVAL FOR DUAL-BIAS MITIGATION IN TEXT-TO-SPEECH GENERATION](https://www.arxiv.org/abs/2511.11104)
 
 The authors are Crystal Min Hui Poon, Pai Chet Ng, Xiaoxiao Miao, Immanuel Jun Kai Loh, Bowen Zhang, Haoyu Song, Ian Mcloughlin
 
