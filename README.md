@@ -1,2 +1,16 @@
-# CLARITY
-Contextual Linguistic Adaptation and Retrieval for Inclusive TTS sYnthesis), a backbone-agnostic framework that addresses these biases through dual-signal op- timization: (i) contextual linguistic adaptation that localizes input text to the target dialect, and (ii) retrieval-augmented accent prompting (RAAP) 
+
+
+## Contextual Linguistic Adaptation and Retrieval for Inclusive TTS sYnthesis (CLARITY)
+
+This is an implementation of the paper: 
+
+[CLARITY: CONTEXTUAL LINGUISTIC ADAPTATION AND ACCENT RETRIEVAL FOR DUAL-BIAS MITIGATION IN TEXT-TO-SPEECH GENERATION](https://www.arxiv.org/abs/2511.11104)
+
+The authors are Crystal Min Hui Poon, Pai Chet Ng, Xiaoxiao Miao, Immanuel Jun Kai Loh, Bowen Zhang, Haoyu Song, Ian Mcloughlin
+
+Audio samples can be found here: https://immanuelloh.github.io/CLARITY-Demo
+
+#### Note: This repository and its documentation are still under construction
+
+
+
